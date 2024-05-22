@@ -584,6 +584,19 @@ div li {
     .projectConatiner .btn{
         font-size: 10px;
     }
+    #project h4 {
+        padding: 20px;
+        margin-top: 10vh;
+        font-size: 4vw;
+        color: #0A043C;
+    }
+    
+    #project h2 {
+        padding: 20px;
+        margin-bottom: 5vh;
+        font-size: 6vw;
+        color: #FFBB5C;
+    }
 }
 
 
