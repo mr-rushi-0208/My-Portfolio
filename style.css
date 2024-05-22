@@ -449,7 +449,7 @@ div li {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        height: 120vh;
+        height: 150vh;
         background-color: #FFCBCB;
 
     }
